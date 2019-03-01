@@ -84,4 +84,6 @@ resource datadrbd {
    }
 }
 ```
-Penjelasan :
+<b>Penjelasan: </b> 
+<b>resource datadrbd  : </b>nama folder resourcenya
+<b>meta-disk  internal: </b>menyimpan metadata DRBD di internal disk
